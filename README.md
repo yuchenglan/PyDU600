@@ -1,7 +1,7 @@
 # PyDU600
 Transfer data from DU600 spectrometers to RPi/PC/Mac
 
-Created and maintained by Yucheng Lan, Chiedozie Ogueri, and Tyrome Fowlkes
+Created and maintained by Yucheng Lan, Chiedozie Ogueri, Tyrome Fowlkes, Kit Sze
 
 ## DU spectrophotometers
 The Beckman spectrophotometer was the first easy-to-use single instrument containing both the optical and electronic components needed for ultraviolet-absorption spectrophotometry within a single housing.  The Beckman DU UV-vis spectrophotometers, first introduced in 1941, were the first commercial scientific instruments to measure ultraviolet-visible light absorbed by substances.  The last DU spectrophotometer was produced on July 6, 1976.  There were approximately 30,000 DU spectrophotometers manufactured and sold between 1941 and 1976.  Some models can be found in present research labs because of its general "all-purpose machines".  Initial price of DU meters were roughly $700 and used DU ones are sold around $500 on eBay, making DU VIS-vis spectrometers attractiable to research laboratories.
@@ -24,6 +24,6 @@ Luckily, there is one RS232 interface at the rear of spectrometers.  Experimenta
 
 
 ## versions
-1. Version 0.01.?21: Manually save data on RPi/PC/Mac from DU600 spectrometers.
+1. Version 0.01.121721: Manually save data on RPi/PC/Mac from DU600 spectrometers.
 2. Version 0.02.?: Autho save data on RPi/PC/Mac from DU600 spectrometers.
 3. Version 0.03: GUI (coming)
