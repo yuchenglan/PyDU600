@@ -24,6 +24,6 @@ Luckily, there is one RS232 interface at the rear of spectrometers.  Experimenta
 
 
 ## versions
-1. Version 0.01.121721: Manually save data on RPi/PC/Mac from DU600 spectrometers.
-2. Version 0.02.?: Autho save data on RPi/PC/Mac from DU600 spectrometers.
-3. Version 0.03: GUI (coming)
+1. Version 0.21.12: Manually save data on RPi/PC/Mac from DU600 spectrometers.
+2. Version 0.22.?: Autho save data on RPi/PC/Mac from DU600 spectrometers.
+3. Version 0.22: GUI (coming)
