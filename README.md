@@ -10,6 +10,13 @@ https://en.wikipedia.org/wiki/DU_spectrophotometer
 
 GREGORY SMUTZER, The Scientist, 15(20) (2001)27. Spectrophotometers: An Absorbing Tale
 
+## Other open source
+
+Dr. Zarko Boskovic at the Unviersity of Kensas posted a Python module (Open640) on github to read DU640 Data with a Raspberry Pi
+
+https://github.com/boskovicgroup/Open640/blob/main/settings_class.py
+
+
 ### Instrumentation
 The spectrometers possess high resolution and the minimization of stray light in the ultraviolet region. A mechanism was developed to accurately control wavelength selection from a quartz prism in the spectrometers.  The optics and electronics were integrated of the spectrophotometers into a single unit that greatly simplified its use.  Light sources generate either UV or visible light, and can be either a tungsten halogen lamp for emission of visible radiation (380-780 nm), a hydrogen or deuterium discharge lamp for UV radiation (190-350 nm), or a xenon lamp that generates a continuous output of light over the UV and visible spectrum.
 
